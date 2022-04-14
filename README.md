@@ -1,5 +1,4 @@
-# Group12
-**Final Project for Principle of Software Requirements**
+# Group12: Final Project for Principle of Software Requirements**
 
 ## Topic: Airport Management System
 
