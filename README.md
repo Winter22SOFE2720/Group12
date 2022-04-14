@@ -27,6 +27,7 @@ Contains all use-cases collected in the 2nd Lab.
 # Navigating through the code
 
 * Open the [login.html](https://github.com/Winter22SOFE2720/Group12/blob/main/Code/bootstrap-5.1.3-dist/login.html) page on your browser.
+* After a successful login, user will end up on the [Home Page](https://github.com/Winter22SOFE2720/Group12/blob/main/Code/bootstrap-5.1.3-dist/index.html)
 * Navigate to the "[Engineer's View](https://github.com/Winter22SOFE2720/Group12/blob/main/Code/bootstrap-5.1.3-dist/engineersView.html)" from the drop-down to fill out the Sure Check form.
 * Click submit and Navigate to the "[ATC's View](https://github.com/Winter22SOFE2720/Group12/blob/main/Code/bootstrap-5.1.3-dist/atcSureCheck.html)" from the dropdown. Here you will find the all submitted sure check form data.
 * If all parameters of the aircraft are flight worthy, navigate to the "[Scheduling](https://github.com/Winter22SOFE2720/Group12/blob/main/Code/bootstrap-5.1.3-dist/OEA.html)" tab and enter the fields as per the Sure Check fields.
