@@ -34,6 +34,6 @@ Contains all use-cases collected in the 2nd Lab.
 * If there are no time conflicts this new field will get added to the scheduling table.
 
 ## Group Members
-### Angad Singh 100814038
-### Onolunosen Aziegbe 100741943
-### Soumil Thete 100797938
+###### Angad Singh 100814038
+###### Onolunosen Aziegbe 100741943
+###### Soumil Thete 100797938
