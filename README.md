@@ -3,7 +3,8 @@
 
 ## Topic: Airport Management System
 
-Overview: Design and develop a flight mangement system which is responsible for scheduling flights based on the time of arrival/departure. Our OEA or Oshawa Executive Airport also allows the airport authority to manage and avoid flight related disasters.
+### Overview: 
+**Design and develop a flight mangement system which is responsible for scheduling flights based on the time of arrival/departure. Our OEA or Oshawa Executive Airport also allows the airport authority to manage and avoid flight related disasters.
 
 ## Table Of Contents:
 
